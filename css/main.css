@@ -2,9 +2,8 @@ body, html, main {
   background: #D2B887;
 }
 
-.btn-default, canvas, .col-sm-6 p {
-  margin: 10px auto;
-  display: block;
+canvas {
+  margin-top: -25px;
 }
 
 .navbar {
